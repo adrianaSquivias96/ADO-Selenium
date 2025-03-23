@@ -1,1 +1,2 @@
-102526467
+username=customer
+password=VnUyYSZoS9smK77RDXTknvTKdzgbi8
